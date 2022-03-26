@@ -1,0 +1,28 @@
+.container {
+    margin-top: 23px;
+    text-align: center;
+}
+.container h1 {
+    font-family: 'montserrat', sans-serif;
+    text-transform: uppercase;
+}
+table {
+    margin: auto;
+}
+input {
+    font-size: 34px;
+    width: 30vw;
+    border: 6px solid #3a3737;
+    border-radius: 25px;
+    margin-bottom: 15px;
+}
+button {
+    font-size: 35px;
+    background: #3ab58c;
+    width: 100px;
+    height: 55px; 
+    border-radius: 25px;
+}
+.calculator {
+    display: inline-block;
+}
